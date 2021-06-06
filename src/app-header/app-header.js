@@ -25,7 +25,7 @@ const AppHeader = ({liked, allPosts}) => {
         <div className="app-header d-flex">
             {/* <Header as='a' colored> */}
             <h1>AccountName</h1>
-            <h2>{allPosts} записей, из них понравилось {liked}</h2>
+            <h2>{allPosts} posts, liked {liked}</h2>
         </div>
     );
 };
