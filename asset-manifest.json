@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Dweedor/static/css/main.908dec40.chunk.css",
+    "main.js": "/Dweedor/static/js/main.d02adf90.chunk.js",
+    "main.js.map": "/Dweedor/static/js/main.d02adf90.chunk.js.map",
+    "runtime-main.js": "/Dweedor/static/js/runtime-main.5547e31a.js",
+    "runtime-main.js.map": "/Dweedor/static/js/runtime-main.5547e31a.js.map",
+    "static/css/2.95f25948.chunk.css": "/Dweedor/static/css/2.95f25948.chunk.css",
+    "static/js/2.d295ff9a.chunk.js": "/Dweedor/static/js/2.d295ff9a.chunk.js",
+    "static/js/2.d295ff9a.chunk.js.map": "/Dweedor/static/js/2.d295ff9a.chunk.js.map",
+    "index.html": "/Dweedor/index.html",
+    "static/css/2.95f25948.chunk.css.map": "/Dweedor/static/css/2.95f25948.chunk.css.map",
+    "static/css/main.908dec40.chunk.css.map": "/Dweedor/static/css/main.908dec40.chunk.css.map",
+    "static/js/2.d295ff9a.chunk.js.LICENSE.txt": "/Dweedor/static/js/2.d295ff9a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5547e31a.js",
+    "static/css/2.95f25948.chunk.css",
+    "static/js/2.d295ff9a.chunk.js",
+    "static/css/main.908dec40.chunk.css",
+    "static/js/main.d02adf90.chunk.js"
+  ]
+}
